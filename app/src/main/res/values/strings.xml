@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DIC2 App</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+    <string name="classe">Classe</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="create_fab">Créer un nouvel eleve</string>
+    <string name="label_prenom">Prenom:</string>
+    <string name="label_nom">Nom:</string>
+    <string name="label_classe">Classe:</string>
+    <string name="image_profile">Image profile</string>
+    <string name="photo">insérer une photo</string>
+</resources>
